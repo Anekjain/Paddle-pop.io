@@ -2,9 +2,10 @@
 
 ## Materialistic Flavoured Game build using p5.js Librarys for Computer Visuals.
 
-## How To Play ?
+Play the Game at https://anekjain.github.io/Paddle-pop.io/
 
-### Enter - To Start
-### p - Pause.
-### s - Resume.
-### Move - Arrow Keys.
+## How To Play ?
+Enter - To Start
+p - Pause.
+s - Resume.
+move - Arrow Keys.
